@@ -1,0 +1,4 @@
+Raiz: 30
+Altura: 3
+Rotacoes: EE=1 DD=2 ED=0 DE=1
+Por nivel: 30 20 40 5 25 50 1 10

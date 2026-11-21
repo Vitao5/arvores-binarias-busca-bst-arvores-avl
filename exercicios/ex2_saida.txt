@@ -1,0 +1,6 @@
+Remover 3: ok
+Remover 5: ok
+Remover 10: nao encontrada
+Remover 2: ok
+Em ordem: 4 6 7 8
+Por nivel: 6 4 7 8
